@@ -30,4 +30,8 @@ The Senate & People of America
     .10     Flashback: Story of the No Pants Network
     .11     Rudi meets with the NPN in Starbucks
     .12     Rudi's office, SMS conversation with Twitterpated
+
+02 Chapter 2
+
+    .01     Alexa in Starbucks talks to father.
 ```
