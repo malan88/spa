@@ -20,7 +20,7 @@ The Senate & People of America
 
     .01     Rudi in apartment email from Twitterpated
     .02     Rudi in Mack's office watch video
-    .03     Rudi, Reese, and Mack in Mack's office.
+    .03     Rudi, Reese, and Mack in Mack's office
     .04     Rudi and Reese walking to Bullpit
     .05     Rudi SMS convo with Twitterpated
     .06     Rudi Reese short catch up
@@ -33,5 +33,9 @@ The Senate & People of America
 
 02 Chapter 2
 
-    .01     Alexa in Starbucks talks to father.
+    .01     Alexa in Starbucks talks to father
+    .02     Rudi, Reese in bullpit stormed by Mason & Patel
+    .03     Alexa out front of NYSE confrontation with police
+    .04     Rudi, Reese in bullpit talk after Mason & Patel
+    .05     Alexa in NYSE remembering experiences with NYSE
 ```
