@@ -38,4 +38,5 @@ The Senate & People of America
     .03     Alexa out front of NYSE confrontation with police
     .04     Rudi, Reese in bullpit talk after Mason & Patel
     .05     Alexa in NYSE remembering experiences with NYSE
+    .06     Flashback: Mack meet Rudi (constrained perpective)
 ```
