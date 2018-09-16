@@ -45,4 +45,5 @@ The Senate & People of America
 03 Chapter 3
 
     .01     NYSE: Alexa and Charlie, philosophy of market hive mind
+    .02     Meet Jack and Teddy
 ```
