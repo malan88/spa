@@ -41,4 +41,8 @@ The Senate & People of America
     .06     Flashback: Mack meet Rudi (constrained perpective)
     .07     NYSE: Alexa and Charlie
     .08     Mack's apartment, introduce Caroline
+
+03 Chapter 3
+
+    .01     NYSE: Alexa and Charlie, philosophy of market hive mind
 ```
