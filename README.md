@@ -40,4 +40,5 @@ The Senate & People of America
     .05     Alexa in NYSE remembering experiences with NYSE
     .06     Flashback: Mack meet Rudi (constrained perpective)
     .07     NYSE: Alexa and Charlie
+    .08     Mack's apartment, introduce Caroline
 ```
